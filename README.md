@@ -1,4 +1,3 @@
-@"
 # 🔍 Automated PR Risk & Impact Analysis Play
 
 An automated agentic play built for **#ROTEPLAYOFFS** using **OpenCode** and **Nemotron 3.5 Lightning**. It analyzes `git diff` inputs to evaluate breaking API changes, security risks, test coverage gaps, and actionable recommendations.
